@@ -14,6 +14,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Avishi0824/Leetcode/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/Avishi0824/Leetcode/tree/master/0014-longest-common-prefix) |
+| [1199-minimum-time-to-build-blocks](https://github.com/Avishi0824/Leetcode/tree/master/1199-minimum-time-to-build-blocks) |
 ## Hash Table
 |  |
 | ------- |
@@ -30,9 +31,18 @@
 ## Math
 |  |
 | ------- |
+| [1199-minimum-time-to-build-blocks](https://github.com/Avishi0824/Leetcode/tree/master/1199-minimum-time-to-build-blocks) |
 | [3084-count-substrings-starting-and-ending-with-given-character](https://github.com/Avishi0824/Leetcode/tree/master/3084-count-substrings-starting-and-ending-with-given-character) |
 ## Counting
 |  |
 | ------- |
 | [3084-count-substrings-starting-and-ending-with-given-character](https://github.com/Avishi0824/Leetcode/tree/master/3084-count-substrings-starting-and-ending-with-given-character) |
+## Greedy
+|  |
+| ------- |
+| [1199-minimum-time-to-build-blocks](https://github.com/Avishi0824/Leetcode/tree/master/1199-minimum-time-to-build-blocks) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1199-minimum-time-to-build-blocks](https://github.com/Avishi0824/Leetcode/tree/master/1199-minimum-time-to-build-blocks) |
 <!---LeetCode Topics End-->
