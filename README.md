@@ -14,6 +14,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Avishi0824/Leetcode/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/Avishi0824/Leetcode/tree/master/0014-longest-common-prefix) |
+| [0027-remove-element](https://github.com/Avishi0824/Leetcode/tree/master/0027-remove-element) |
 | [1199-minimum-time-to-build-blocks](https://github.com/Avishi0824/Leetcode/tree/master/1199-minimum-time-to-build-blocks) |
 ## Hash Table
 |  |
@@ -45,4 +46,8 @@
 |  |
 | ------- |
 | [1199-minimum-time-to-build-blocks](https://github.com/Avishi0824/Leetcode/tree/master/1199-minimum-time-to-build-blocks) |
+## Two Pointers
+|  |
+| ------- |
+| [0027-remove-element](https://github.com/Avishi0824/Leetcode/tree/master/0027-remove-element) |
 <!---LeetCode Topics End-->
