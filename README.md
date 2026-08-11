@@ -32,6 +32,7 @@
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/Avishi0824/Leetcode/tree/master/0009-palindrome-number) |
 | [1199-minimum-time-to-build-blocks](https://github.com/Avishi0824/Leetcode/tree/master/1199-minimum-time-to-build-blocks) |
 | [3084-count-substrings-starting-and-ending-with-given-character](https://github.com/Avishi0824/Leetcode/tree/master/3084-count-substrings-starting-and-ending-with-given-character) |
 ## Counting
