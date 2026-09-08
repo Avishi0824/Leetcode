@@ -19,6 +19,7 @@
 | [0001-two-sum](https://github.com/Avishi0824/Leetcode/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/Avishi0824/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0027-remove-element](https://github.com/Avishi0824/Leetcode/tree/master/0027-remove-element) |
+| [0605-can-place-flowers](https://github.com/Avishi0824/Leetcode/tree/master/0605-can-place-flowers) |
 | [1199-minimum-time-to-build-blocks](https://github.com/Avishi0824/Leetcode/tree/master/1199-minimum-time-to-build-blocks) |
 ## Hash Table
 |  |
@@ -53,6 +54,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0605-can-place-flowers](https://github.com/Avishi0824/Leetcode/tree/master/0605-can-place-flowers) |
 | [1199-minimum-time-to-build-blocks](https://github.com/Avishi0824/Leetcode/tree/master/1199-minimum-time-to-build-blocks) |
 ## Heap (Priority Queue)
 |  |
