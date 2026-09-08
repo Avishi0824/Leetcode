@@ -28,6 +28,7 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Avishi0824/Leetcode/tree/master/0014-longest-common-prefix) |
+| [1071-greatest-common-divisor-of-strings](https://github.com/Avishi0824/Leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1768-merge-strings-alternately](https://github.com/Avishi0824/Leetcode/tree/master/1768-merge-strings-alternately) |
 | [3084-count-substrings-starting-and-ending-with-given-character](https://github.com/Avishi0824/Leetcode/tree/master/3084-count-substrings-starting-and-ending-with-given-character) |
 ## Trie
@@ -42,6 +43,7 @@
 | [0231-power-of-two](https://github.com/Avishi0824/Leetcode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Avishi0824/Leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Avishi0824/Leetcode/tree/master/0342-power-of-four) |
+| [1071-greatest-common-divisor-of-strings](https://github.com/Avishi0824/Leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1199-minimum-time-to-build-blocks](https://github.com/Avishi0824/Leetcode/tree/master/1199-minimum-time-to-build-blocks) |
 | [3084-count-substrings-starting-and-ending-with-given-character](https://github.com/Avishi0824/Leetcode/tree/master/3084-count-substrings-starting-and-ending-with-given-character) |
 ## Counting
@@ -67,4 +69,12 @@
 | [0231-power-of-two](https://github.com/Avishi0824/Leetcode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Avishi0824/Leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Avishi0824/Leetcode/tree/master/0342-power-of-four) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [1071-greatest-common-divisor-of-strings](https://github.com/Avishi0824/Leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [1071-greatest-common-divisor-of-strings](https://github.com/Avishi0824/Leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
 <!---LeetCode Topics End-->
