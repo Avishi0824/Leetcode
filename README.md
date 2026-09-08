@@ -10,6 +10,7 @@
 | ------- |
 | [0190-reverse-bits](https://github.com/Avishi0824/Leetcode/tree/master/0190-reverse-bits) |
 | [0231-power-of-two](https://github.com/Avishi0824/Leetcode/tree/master/0231-power-of-two) |
+| [0342-power-of-four](https://github.com/Avishi0824/Leetcode/tree/master/0342-power-of-four) |
 | [0476-number-complement](https://github.com/Avishi0824/Leetcode/tree/master/0476-number-complement) |
 | [1009-complement-of-base-10-integer](https://github.com/Avishi0824/Leetcode/tree/master/1009-complement-of-base-10-integer) |
 ## Array
@@ -38,6 +39,7 @@
 | [0007-reverse-integer](https://github.com/Avishi0824/Leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Avishi0824/Leetcode/tree/master/0009-palindrome-number) |
 | [0231-power-of-two](https://github.com/Avishi0824/Leetcode/tree/master/0231-power-of-two) |
+| [0342-power-of-four](https://github.com/Avishi0824/Leetcode/tree/master/0342-power-of-four) |
 | [1199-minimum-time-to-build-blocks](https://github.com/Avishi0824/Leetcode/tree/master/1199-minimum-time-to-build-blocks) |
 | [3084-count-substrings-starting-and-ending-with-given-character](https://github.com/Avishi0824/Leetcode/tree/master/3084-count-substrings-starting-and-ending-with-given-character) |
 ## Counting
@@ -60,4 +62,5 @@
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/Avishi0824/Leetcode/tree/master/0231-power-of-two) |
+| [0342-power-of-four](https://github.com/Avishi0824/Leetcode/tree/master/0342-power-of-four) |
 <!---LeetCode Topics End-->
