@@ -4,6 +4,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Avishi0824/Leetcode/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/Avishi0824/Leetcode/tree/master/0190-reverse-bits) |
 ## Bit Manipulation
 |  |
@@ -19,6 +20,7 @@
 | [0001-two-sum](https://github.com/Avishi0824/Leetcode/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/Avishi0824/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0027-remove-element](https://github.com/Avishi0824/Leetcode/tree/master/0027-remove-element) |
+| [0169-majority-element](https://github.com/Avishi0824/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Avishi0824/Leetcode/tree/master/0217-contains-duplicate) |
 | [0605-can-place-flowers](https://github.com/Avishi0824/Leetcode/tree/master/0605-can-place-flowers) |
 | [1199-minimum-time-to-build-blocks](https://github.com/Avishi0824/Leetcode/tree/master/1199-minimum-time-to-build-blocks) |
@@ -27,6 +29,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Avishi0824/Leetcode/tree/master/0001-two-sum) |
+| [0169-majority-element](https://github.com/Avishi0824/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Avishi0824/Leetcode/tree/master/0217-contains-duplicate) |
 ## String
 |  |
@@ -54,6 +57,7 @@
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Avishi0824/Leetcode/tree/master/0169-majority-element) |
 | [3084-count-substrings-starting-and-ending-with-given-character](https://github.com/Avishi0824/Leetcode/tree/master/3084-count-substrings-starting-and-ending-with-given-character) |
 ## Greedy
 |  |
@@ -87,5 +91,10 @@
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Avishi0824/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Avishi0824/Leetcode/tree/master/0217-contains-duplicate) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Avishi0824/Leetcode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
