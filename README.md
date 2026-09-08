@@ -10,6 +10,7 @@
 | ------- |
 | [0190-reverse-bits](https://github.com/Avishi0824/Leetcode/tree/master/0190-reverse-bits) |
 | [0476-number-complement](https://github.com/Avishi0824/Leetcode/tree/master/0476-number-complement) |
+| [1009-complement-of-base-10-integer](https://github.com/Avishi0824/Leetcode/tree/master/1009-complement-of-base-10-integer) |
 ## Array
 |  |
 | ------- |
