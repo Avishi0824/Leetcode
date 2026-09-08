@@ -9,6 +9,7 @@
 |  |
 | ------- |
 | [0190-reverse-bits](https://github.com/Avishi0824/Leetcode/tree/master/0190-reverse-bits) |
+| [0476-number-complement](https://github.com/Avishi0824/Leetcode/tree/master/0476-number-complement) |
 ## Array
 |  |
 | ------- |
