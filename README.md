@@ -39,6 +39,7 @@
 | [0007-reverse-integer](https://github.com/Avishi0824/Leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Avishi0824/Leetcode/tree/master/0009-palindrome-number) |
 | [0231-power-of-two](https://github.com/Avishi0824/Leetcode/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/Avishi0824/Leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Avishi0824/Leetcode/tree/master/0342-power-of-four) |
 | [1199-minimum-time-to-build-blocks](https://github.com/Avishi0824/Leetcode/tree/master/1199-minimum-time-to-build-blocks) |
 | [3084-count-substrings-starting-and-ending-with-given-character](https://github.com/Avishi0824/Leetcode/tree/master/3084-count-substrings-starting-and-ending-with-given-character) |
@@ -62,5 +63,6 @@
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/Avishi0824/Leetcode/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/Avishi0824/Leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Avishi0824/Leetcode/tree/master/0342-power-of-four) |
 <!---LeetCode Topics End-->
