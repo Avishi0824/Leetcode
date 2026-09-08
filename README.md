@@ -28,6 +28,7 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Avishi0824/Leetcode/tree/master/0014-longest-common-prefix) |
+| [1768-merge-strings-alternately](https://github.com/Avishi0824/Leetcode/tree/master/1768-merge-strings-alternately) |
 | [3084-count-substrings-starting-and-ending-with-given-character](https://github.com/Avishi0824/Leetcode/tree/master/3084-count-substrings-starting-and-ending-with-given-character) |
 ## Trie
 |  |
@@ -59,6 +60,7 @@
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/Avishi0824/Leetcode/tree/master/0027-remove-element) |
+| [1768-merge-strings-alternately](https://github.com/Avishi0824/Leetcode/tree/master/1768-merge-strings-alternately) |
 ## Recursion
 |  |
 | ------- |
