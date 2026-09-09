@@ -37,6 +37,7 @@
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Avishi0824/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Avishi0824/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
+| [0392-is-subsequence](https://github.com/Avishi0824/Leetcode/tree/master/0392-is-subsequence) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Avishi0824/Leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1768-merge-strings-alternately](https://github.com/Avishi0824/Leetcode/tree/master/1768-merge-strings-alternately) |
 | [3084-count-substrings-starting-and-ending-with-given-character](https://github.com/Avishi0824/Leetcode/tree/master/3084-count-substrings-starting-and-ending-with-given-character) |
@@ -75,6 +76,7 @@
 | [0027-remove-element](https://github.com/Avishi0824/Leetcode/tree/master/0027-remove-element) |
 | [0283-move-zeroes](https://github.com/Avishi0824/Leetcode/tree/master/0283-move-zeroes) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Avishi0824/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
+| [0392-is-subsequence](https://github.com/Avishi0824/Leetcode/tree/master/0392-is-subsequence) |
 | [1768-merge-strings-alternately](https://github.com/Avishi0824/Leetcode/tree/master/1768-merge-strings-alternately) |
 ## Recursion
 |  |
@@ -99,4 +101,8 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Avishi0824/Leetcode/tree/master/0169-majority-element) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0392-is-subsequence](https://github.com/Avishi0824/Leetcode/tree/master/0392-is-subsequence) |
 <!---LeetCode Topics End-->
