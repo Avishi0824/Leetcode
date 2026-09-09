@@ -22,6 +22,7 @@
 | [0027-remove-element](https://github.com/Avishi0824/Leetcode/tree/master/0027-remove-element) |
 | [0169-majority-element](https://github.com/Avishi0824/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Avishi0824/Leetcode/tree/master/0217-contains-duplicate) |
+| [0283-move-zeroes](https://github.com/Avishi0824/Leetcode/tree/master/0283-move-zeroes) |
 | [0605-can-place-flowers](https://github.com/Avishi0824/Leetcode/tree/master/0605-can-place-flowers) |
 | [1199-minimum-time-to-build-blocks](https://github.com/Avishi0824/Leetcode/tree/master/1199-minimum-time-to-build-blocks) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Avishi0824/Leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
@@ -72,6 +73,7 @@
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/Avishi0824/Leetcode/tree/master/0027-remove-element) |
+| [0283-move-zeroes](https://github.com/Avishi0824/Leetcode/tree/master/0283-move-zeroes) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Avishi0824/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [1768-merge-strings-alternately](https://github.com/Avishi0824/Leetcode/tree/master/1768-merge-strings-alternately) |
 ## Recursion
