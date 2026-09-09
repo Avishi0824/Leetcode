@@ -25,6 +25,7 @@
 | [0169-majority-element](https://github.com/Avishi0824/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Avishi0824/Leetcode/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/Avishi0824/Leetcode/tree/master/0283-move-zeroes) |
+| [0485-max-consecutive-ones](https://github.com/Avishi0824/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0605-can-place-flowers](https://github.com/Avishi0824/Leetcode/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/Avishi0824/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [1199-minimum-time-to-build-blocks](https://github.com/Avishi0824/Leetcode/tree/master/1199-minimum-time-to-build-blocks) |
