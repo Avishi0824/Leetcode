@@ -32,6 +32,7 @@
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Avishi0824/Leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1480-running-sum-of-1d-array](https://github.com/Avishi0824/Leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1732-find-the-highest-altitude](https://github.com/Avishi0824/Leetcode/tree/master/1732-find-the-highest-altitude) |
+| [1822-sign-of-the-product-of-an-array](https://github.com/Avishi0824/Leetcode/tree/master/1822-sign-of-the-product-of-an-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -63,6 +64,7 @@
 | [0342-power-of-four](https://github.com/Avishi0824/Leetcode/tree/master/0342-power-of-four) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Avishi0824/Leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1199-minimum-time-to-build-blocks](https://github.com/Avishi0824/Leetcode/tree/master/1199-minimum-time-to-build-blocks) |
+| [1822-sign-of-the-product-of-an-array](https://github.com/Avishi0824/Leetcode/tree/master/1822-sign-of-the-product-of-an-array) |
 | [3084-count-substrings-starting-and-ending-with-given-character](https://github.com/Avishi0824/Leetcode/tree/master/3084-count-substrings-starting-and-ending-with-given-character) |
 ## Counting
 |  |
