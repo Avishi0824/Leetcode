@@ -36,10 +36,12 @@
 | [0001-two-sum](https://github.com/Avishi0824/Leetcode/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/Avishi0824/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Avishi0824/Leetcode/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/Avishi0824/Leetcode/tree/master/0242-valid-anagram) |
 ## String
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Avishi0824/Leetcode/tree/master/0014-longest-common-prefix) |
+| [0242-valid-anagram](https://github.com/Avishi0824/Leetcode/tree/master/0242-valid-anagram) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Avishi0824/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/Avishi0824/Leetcode/tree/master/0392-is-subsequence) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Avishi0824/Leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
@@ -101,6 +103,7 @@
 | ------- |
 | [0169-majority-element](https://github.com/Avishi0824/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Avishi0824/Leetcode/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/Avishi0824/Leetcode/tree/master/0242-valid-anagram) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
