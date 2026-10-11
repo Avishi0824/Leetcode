@@ -24,6 +24,7 @@
 | [0027-remove-element](https://github.com/Avishi0824/Leetcode/tree/master/0027-remove-element) |
 | [0053-maximum-subarray](https://github.com/Avishi0824/Leetcode/tree/master/0053-maximum-subarray) |
 | [0088-merge-sorted-array](https://github.com/Avishi0824/Leetcode/tree/master/0088-merge-sorted-array) |
+| [0128-longest-consecutive-sequence](https://github.com/Avishi0824/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/Avishi0824/Leetcode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/Avishi0824/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Avishi0824/Leetcode/tree/master/0217-contains-duplicate) |
@@ -41,6 +42,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Avishi0824/Leetcode/tree/master/0001-two-sum) |
+| [0128-longest-consecutive-sequence](https://github.com/Avishi0824/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/Avishi0824/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Avishi0824/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Avishi0824/Leetcode/tree/master/0242-valid-anagram) |
@@ -134,4 +136,8 @@
 | [0560-subarray-sum-equals-k](https://github.com/Avishi0824/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [1480-running-sum-of-1d-array](https://github.com/Avishi0824/Leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1732-find-the-highest-altitude](https://github.com/Avishi0824/Leetcode/tree/master/1732-find-the-highest-altitude) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Avishi0824/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
