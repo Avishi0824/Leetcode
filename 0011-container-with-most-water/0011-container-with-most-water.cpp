@@ -1,23 +1,16 @@
-#include <vector>
-#include <algorithm>
-
 class Solution {
 public:
-    int maxArea(std::vector<int>& height) {
+    int maxArea(vector<int>& height) {
         int left = 0;
         int right = height.size() - 1;
-        int max_water = 0;
+        int maxWater = 0;
 
         while (left < right) {
-            // Calculate current container height and area
-            int current_height = std::min(height[left], height[right]);
-            int current_width = right - left;
-            int current_area = current_height * current_width;
+            int width = right - left;
+            int h = min(height[left], height[right]);
 
-            // Update maximum area
-            max_water = std::max(max_water, current_area);
+            maxWater = max(maxWater, width * h);
 
-            // Move the pointer pointing to the shorter line
             if (height[left] < height[right]) {
                 left++;
             } else {
@@ -25,6 +18,6 @@ public:
             }
         }
 
-        return max_water;
+        return maxWater;
     }
 };
