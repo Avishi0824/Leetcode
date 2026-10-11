@@ -14,6 +14,7 @@
 | [0190-reverse-bits](https://github.com/Avishi0824/Leetcode/tree/master/0190-reverse-bits) |
 | [0231-power-of-two](https://github.com/Avishi0824/Leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Avishi0824/Leetcode/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/Avishi0824/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0342-power-of-four](https://github.com/Avishi0824/Leetcode/tree/master/0342-power-of-four) |
 | [0476-number-complement](https://github.com/Avishi0824/Leetcode/tree/master/0476-number-complement) |
 | [1009-complement-of-base-10-integer](https://github.com/Avishi0824/Leetcode/tree/master/1009-complement-of-base-10-integer) |
@@ -32,6 +33,7 @@
 | [0238-product-of-array-except-self](https://github.com/Avishi0824/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/Avishi0824/Leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Avishi0824/Leetcode/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/Avishi0824/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0485-max-consecutive-ones](https://github.com/Avishi0824/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/Avishi0824/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0605-can-place-flowers](https://github.com/Avishi0824/Leetcode/tree/master/0605-can-place-flowers) |
@@ -98,6 +100,7 @@
 | [0027-remove-element](https://github.com/Avishi0824/Leetcode/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/Avishi0824/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0283-move-zeroes](https://github.com/Avishi0824/Leetcode/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/Avishi0824/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Avishi0824/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/Avishi0824/Leetcode/tree/master/0392-is-subsequence) |
 | [1768-merge-strings-alternately](https://github.com/Avishi0824/Leetcode/tree/master/1768-merge-strings-alternately) |
@@ -151,4 +154,13 @@
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Avishi0824/Leetcode/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/Avishi0824/Leetcode/tree/master/0287-find-the-duplicate-number) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/Avishi0824/Leetcode/tree/master/0287-find-the-duplicate-number) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/Avishi0824/Leetcode/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
