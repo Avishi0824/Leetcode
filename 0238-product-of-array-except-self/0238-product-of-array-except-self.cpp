@@ -2,6 +2,33 @@ class Solution {
 public:
     vector<int> productExceptSelf(vector<int>& nums) {
         int n = nums.size();
+        vector<int> answer(n, 1);
+
+        // Pass 1: Prefix products (elements to the left of i)
+        int left_product = 1;
+        for (int i = 0; i < n; ++i) {
+            answer[i] = left_product;
+            left_product *= nums[i];
+        }
+
+        // Pass 2: Suffix products (elements to the right of i)
+        int right_product = 1;
+        for (int i = n - 1; i >= 0; --i) {
+            answer[i] *= right_product;
+            right_product *= nums[i];
+        }
+
+        return answer;
+    }
+};
+
+
+
+
+/*class Solution {
+public:
+    vector<int> productExceptSelf(vector<int>& nums) {
+ int n = nums.size();
         vector<int> left_product(n, 1);
         vector<int> right_product(n, 1);
         vector<int> answer(n);
@@ -23,4 +50,4 @@ public:
 
         return answer;
     }
-};
+};*/
