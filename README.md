@@ -13,6 +13,7 @@
 | [0136-single-number](https://github.com/Avishi0824/Leetcode/tree/master/0136-single-number) |
 | [0190-reverse-bits](https://github.com/Avishi0824/Leetcode/tree/master/0190-reverse-bits) |
 | [0231-power-of-two](https://github.com/Avishi0824/Leetcode/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/Avishi0824/Leetcode/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/Avishi0824/Leetcode/tree/master/0342-power-of-four) |
 | [0476-number-complement](https://github.com/Avishi0824/Leetcode/tree/master/0476-number-complement) |
 | [1009-complement-of-base-10-integer](https://github.com/Avishi0824/Leetcode/tree/master/1009-complement-of-base-10-integer) |
@@ -29,6 +30,7 @@
 | [0169-majority-element](https://github.com/Avishi0824/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Avishi0824/Leetcode/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/Avishi0824/Leetcode/tree/master/0238-product-of-array-except-self) |
+| [0268-missing-number](https://github.com/Avishi0824/Leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Avishi0824/Leetcode/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/Avishi0824/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/Avishi0824/Leetcode/tree/master/0560-subarray-sum-equals-k) |
@@ -47,6 +49,7 @@
 | [0169-majority-element](https://github.com/Avishi0824/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Avishi0824/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Avishi0824/Leetcode/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/Avishi0824/Leetcode/tree/master/0268-missing-number) |
 | [0560-subarray-sum-equals-k](https://github.com/Avishi0824/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 ## String
 |  |
@@ -68,6 +71,7 @@
 | [0007-reverse-integer](https://github.com/Avishi0824/Leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Avishi0824/Leetcode/tree/master/0009-palindrome-number) |
 | [0231-power-of-two](https://github.com/Avishi0824/Leetcode/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/Avishi0824/Leetcode/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/Avishi0824/Leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Avishi0824/Leetcode/tree/master/0342-power-of-four) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Avishi0824/Leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
@@ -118,6 +122,7 @@
 | [0169-majority-element](https://github.com/Avishi0824/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Avishi0824/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Avishi0824/Leetcode/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/Avishi0824/Leetcode/tree/master/0268-missing-number) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
@@ -142,4 +147,8 @@
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Avishi0824/Leetcode/tree/master/0128-longest-consecutive-sequence) |
+## Binary Search
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/Avishi0824/Leetcode/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
