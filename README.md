@@ -120,6 +120,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/Avishi0824/Leetcode/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/Avishi0824/Leetcode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Avishi0824/Leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Avishi0824/Leetcode/tree/master/0342-power-of-four) |
@@ -192,4 +193,8 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Avishi0824/Leetcode/tree/master/0075-sort-colors) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/Avishi0824/Leetcode/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
