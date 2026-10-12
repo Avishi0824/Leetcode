@@ -42,6 +42,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/Avishi0824/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0605-can-place-flowers](https://github.com/Avishi0824/Leetcode/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/Avishi0824/Leetcode/tree/master/0643-maximum-average-subarray-i) |
+| [0704-binary-search](https://github.com/Avishi0824/Leetcode/tree/master/0704-binary-search) |
 | [1199-minimum-time-to-build-blocks](https://github.com/Avishi0824/Leetcode/tree/master/1199-minimum-time-to-build-blocks) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Avishi0824/Leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1480-running-sum-of-1d-array](https://github.com/Avishi0824/Leetcode/tree/master/1480-running-sum-of-1d-array) |
@@ -172,6 +173,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/Avishi0824/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/Avishi0824/Leetcode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Avishi0824/Leetcode/tree/master/0287-find-the-duplicate-number) |
+| [0704-binary-search](https://github.com/Avishi0824/Leetcode/tree/master/0704-binary-search) |
 ## Pigeonhole Principle
 |  |
 | ------- |
